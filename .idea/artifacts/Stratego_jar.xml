@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Stratego:jar">
+    <output-path>$PROJECT_DIR$/../Stratego_jar</output-path>
+    <root id="archive" name="Stratego.jar">
+      <element id="module-output" name="Stratego" />
+    </root>
+  </artifact>
+</component>
